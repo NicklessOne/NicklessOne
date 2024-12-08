@@ -1,8 +1,8 @@
-### Hi there, I'm Phillipe Martins - aka [Inkasa Dev][youtube] 👋
+### Hi there, I'm Phillipe Martins 👋
 
 ## Fullstack Developer (FE Heavy) and content creator
 
-- 💻 Currently I work at [Pravaler](https://www.pravaler.com.br/)
+<!-- - 💻 Currently I work at [Pravaler](https://www.pravaler.com.br/) -->
 - 📚 I’m a web technologies enthusiast
 - 👨 Fun fact: I love parrots and creating creative projects with code.
 
@@ -133,25 +133,25 @@ Users that already finished this game with the number of levels that the game ha
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/inkasadev/osib-frontend-pt"><b>Open Source Inkasa Dev Bootcamp (PT-BR)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/NicklessOne/osib-frontend-pt"><b>Open Source Inkasa Dev Bootcamp (PT-BR)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/NicklessOne/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/NicklessOne/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/NicklessOne/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NicklessOne/osib-frontend-pt?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/inkasadev/inks2d"><b>inks2d - A free no-dependency Typescript Game Engine designed for developing 2D games</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/inks2d?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/NicklessOne/inks2d"><b>inks2d - A free no-dependency Typescript Game Engine designed for developing 2D games</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/NicklessOne/inks2d?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/NicklessOne/inks2d?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/NicklessOne/inks2d?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NicklessOne/inks2d?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/inkasadev/studioled"><b>Studio Led</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/inkasadev/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/NicklessOne/studioled"><b>Studio Led</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/NicklessOne/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/NicklessOne/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/NicklessOne/studioled?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NicklessOne/studioled?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -170,17 +170,17 @@ Users that already finished this game with the number of levels that the game ha
   </thead>
   <tbody>
 	  <tr>
-      <td><a href="https://github.com/inkasadev/frontend-architecture-basic-example"><b>Frontend Architecture Basic Example</b></a></td>
+      <td><a href="https://github.com/NicklessOne/frontend-architecture-basic-example"><b>Frontend Architecture Basic Example</b></a></td>
       <td align="center"><a href="https://frontend-architecture-basic-example.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/live-DEMO-3E2869?style=flat-square&labelColor=black" alt="Frontend Architecture Live Demo" /></a></td>
       <td>Example of what I consider a good frontend architecture for basic projects.</td>
     </tr>
 	  <!-- <tr>
-      <td><a href="https://github.com/inkasadev/react-chat"><b>Xatty - Chat App made with React</b></a></td>
+      <td><a href="https://github.com/NicklessOne/react-chat"><b>Xatty - Chat App made with React</b></a></td>
       <td align="center">Ask me</td>
       <td>Chat App with some cool features, like private and public rooms and supporting different message types (text, image and audio).</td>
     </tr> -->
 	  <tr>
-      <td><a href="https://github.com/inkasadev/prova-tecnica-frameplayer"><b>Frame Player</b></a></td>
+      <td><a href="https://github.com/NicklessOne/prova-tecnica-frameplayer"><b>Frame Player</b></a></td>
       <td align="center"><a href="https://prova-tecnica-frameplayer.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/live-DEMO-3E2869?style=flat-square&labelColor=black" alt="Frame Player Live Demo" /></a></td>
       <td>React component that acts as a frame player (analogous to a video player).</td>
     </tr>
@@ -192,13 +192,13 @@ Users that already finished this game with the number of levels that the game ha
 ### 📺 My most recent projects on Youtube (PT-BR)
 
 <!-- YOUTUBE:START -->
-- [Como fazer um site de notícias em HTML CSS Javascript | Site Clarim Diário](https://github.com/inkasadev/clarim-diario-starter-files)
-- [Como fazer um jogo da velha em Javascript COMPLETO em 45 Minutos](https://github.com/inkasadev/jogo-da-velha-starter-files)
-- [Como fazer um DASHBOARD HTML CSS JAVASCRIPT | Dashboard Covid Brasil](https://github.com/inkasadev/covid-brasil-starter-files)
-- [Como fazer um site HTML CSS Javascript | Site Meet Minas](https://github.com/inkasadev/meet-minas-starter-files)
-- [Como fazer um projeto Javascript (para iniciantes) | Placa 100 mil inscritos](https://github.com/inkasadev/placa100k-starter-files)
+- [Como fazer um site de notícias em HTML CSS Javascript | Site Clarim Diário](https://github.com/NicklessOne/clarim-diario-starter-files)
+- [Como fazer um jogo da velha em Javascript COMPLETO em 45 Minutos](https://github.com/NicklessOne/jogo-da-velha-starter-files)
+- [Como fazer um DASHBOARD HTML CSS JAVASCRIPT | Dashboard Covid Brasil](https://github.com/NicklessOne/covid-brasil-starter-files)
+- [Como fazer um site HTML CSS Javascript | Site Meet Minas](https://github.com/NicklessOne/meet-minas-starter-files)
+- [Como fazer um projeto Javascript (para iniciantes) | Placa 100 mil inscritos](https://github.com/NicklessOne/placa100k-starter-files)
 <!-- YOUTUBE:END -->
 
-➡️ [more projects...](https://www.youtube.com/c/InkasaDev/playlists)
+➡️ [more projects...](https://www.youtube.com/c/NicklessOne/playlists)
 
-[youtube]: https://youtube.com/inkasadev/videos
+[youtube]: https://youtube.com/NicklessOne/videos
